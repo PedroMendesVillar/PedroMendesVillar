@@ -11,7 +11,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
 &nbsp;&nbsp;&nbsp;
-![C# Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Logo C#" width="100" height="100">
 &nbsp;&nbsp;&nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60" alt="C"/>
 &nbsp;&nbsp;&nbsp;
